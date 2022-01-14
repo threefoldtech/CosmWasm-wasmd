@@ -1,4 +1,4 @@
-module github.com/CosmWasm/wasmd
+module github.com/threefoldtech/CosmWasm-wasmd
 
 go 1.17
 
